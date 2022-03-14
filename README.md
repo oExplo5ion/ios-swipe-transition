@@ -1,0 +1,2 @@
+# ios-swipe-transition
+Gamburger like menu transition using UIPercentDrivenInteractiveTransition and UIViewControllerAnimatedTransitioning
